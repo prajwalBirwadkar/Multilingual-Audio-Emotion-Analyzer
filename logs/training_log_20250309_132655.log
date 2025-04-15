@@ -1,0 +1,6 @@
+2025-03-09 13:26:55,769 - INFO - Starting emotion detection model training
+2025-03-09 13:26:55,782 - INFO - Python version: 3.11.0
+2025-03-09 13:26:55,825 - INFO - System: Windows 10.0.26100
+2025-03-09 13:26:55,827 - INFO - Found both English and Marathi datasets
+2025-03-09 13:26:55,827 - INFO - Checking required packages...
+2025-03-09 13:27:03,265 - ERROR - Missing required package: No module named 'fasttext'

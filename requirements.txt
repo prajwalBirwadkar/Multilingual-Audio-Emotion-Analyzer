@@ -1,0 +1,11 @@
+flask==2.3.3
+numpy==1.24.3
+pandas==2.0.3
+tensorflow==2.14.0
+scikit-learn==1.3.0
+SpeechRecognition==3.10.0
+langdetect==1.0.9
+Werkzeug==2.3.7
+PyAudio==0.2.13  # Required for microphone input
+requests==2.31.0
+matplotlib==3.7.2 
