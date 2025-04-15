@@ -100,9 +100,6 @@ The model can detect the following emotions:
 - Audio recording in the browser requires microphone permissions
 - Model accuracy depends on the quality and diversity of the training data
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
